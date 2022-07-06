@@ -689,6 +689,28 @@
     "scriptSrc": "\\.speedtestcustom\\.com/",
     "website": "https://www.ookla.com/speedtest-custom"
   },
+  "oopy": {
+    "cats": [
+      51
+    ],
+    "description": "Oopy provides you with a simple and easy way to turn your Notion page into a performant website. Featuring customized styles, and integrations with powerful services like Google Analytics, Facebook Pixel, and so on and on and on.",
+    "implies": [
+      "Notion",
+      "Next.js"
+    ],
+    "icon": "oopy.png",
+    "pricing": [
+      "low",
+      "freemium",
+      "recurring"
+    ],
+    "js": {
+      "__OOPY__": ""
+    },
+    "oss": false,
+    "saas": true,
+    "website": "https://oopy.us"
+  },
   "Open AdStream": {
     "cats": [
       36
