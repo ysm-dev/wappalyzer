@@ -5471,7 +5471,8 @@
     ],
     "description": "Strapi is an open-source headless CMS used for building fast and easily manageable APIs written in JavaScript.",
     "headers": {
-      "X-Powered-By": "^Strapi"
+      "X-Powered-By": "^Strapi",
+      "x-powered-by": "^Strapi"
     },
     "icon": "Strapi.svg",
     "oss": true,
