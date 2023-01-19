@@ -2069,6 +2069,7 @@
       "store-config": "graphqlMethod"
     },
     "oss": true,
+    "xhr": "/graphql$",
     "website": "https://graphql.org"
   },
   "Graphene": {
