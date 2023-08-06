@@ -207,6 +207,17 @@
     "implies": "PHP",
     "website": "https://vanillaforums.org"
   },
+  "VanJS": {
+    "cats": [
+      12
+    ],
+    "description": "VanJS is an ultra-lightweight, zero-dependency, and unopinionated Reactive UI framework based on pure vanilla JavaScript and DOM.",
+    "icon": "VanJS.svg",
+    "js": {
+      "van": ""
+    },
+    "website": "https://vanjs.org"
+  },
   "Vant": {
     "cats": [
       66
