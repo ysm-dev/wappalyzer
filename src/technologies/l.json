@@ -1537,6 +1537,25 @@
     "scriptSrc": "cdn\\.(?:lr-ingest|logrocket)\\.(?:com|io)",
     "website": "https://logrocket.com"
   },
+  "LogSnag": {
+    "cats": [
+      10
+    ],
+    "description": "LogSnag is a use-case agnostic event tracking and analytics platform.",
+    "icon": "LogSnag.svg",
+    "js": {
+      "LogSnag": ""
+    },
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
+    "saas": true,
+    "scriptSrc": "cdn\\.logsnag\\.com/js",
+    "xhr": "api\\.logsnag\\.com",
+    "website": "https://logsnag.com"
+  },
   "Loggly": {
     "cats": [
       10
